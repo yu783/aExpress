@@ -261,7 +261,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n  \"product_order\" : {\n  \"buyer\" : \"Mian Asad Ali\",\n  \"address\" : \"Some address\",\n  \"email\" : \"mianasadali@gmail.com\",\n  \"shipping\" : \"Economy\",\n  \"shipping_rate\" : \"20\",\n  \"shipping_location\" : \"Washington, US\",\n  \"date_ship\" : 1645144704466,\n  \"phone\" : \"123456\",\n  \"comment\" : \"some comment\",\n  \"status\" : \"\",\n  \"total_fees\" : 123,\n  \"tax\" : 2,\n  \"serial\" : \"123456\",\n  \"created_at\" : 1645144704466,\n  \"updated_at\" : 1645144704466\n  },\n  \"product_order_detail\" : [\n    {\n     \"product_id\" : 3,\n     \"product_name\" : \"Mian Asad Ali\",\n     \"amount\" : 24,\n     \"price_item\" : 40,\n     \"created_at\" : 1645144704466,\n     \"updated_at\" : 1645144704466\n    }\n    ]\n  \n}",
+					"raw": "{\n  \"product_order\" : {\n  \"buyer\" : \"Mian Asad Ali\",\n  \"address\" : \"Some address\",\n  \"email\" : \"mianasadali@gmail.com\",\n  \"shipping\" : \"Economy\",\n  \"shipping_rate\" : \"20\",\n  \"shipping_location\" : \"Washington, US\",\n  \"date_ship\" : 1645144704466,\n  \"phone\" : \"123456\",\n  \"comment\" : \"some comment\",\n  \"status\" : \"\",\n  \"total_fees\" : 123,\n  \"tax\" : 2,\n  \"serial\" : \"123456\",\n  \"created_at\" : 1645144704466,\n  \"updated_at\" : 1645144704466\n  },\n  \"product_order_detail\" : [\n    {\n     \"product_id\" : 293,\n     \"product_name\" : \"Shoes\",\n     \"amount\" : 424,\n     \"price_item\" : 344,\n     \"created_at\" : 1658307690458,\n     \"updated_at\" :  1658307690458\n    }\n    ]\n  \n}",
 					"options": {
 						"raw": {
 							"language": "json"
